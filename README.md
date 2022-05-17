@@ -7,4 +7,4 @@ the "Jornada Hiring Coders #3" program, promoted by [Gama Academy](https://www.g
 * CSS
 * JAVASCRIPT
 
-You can see the live demo [here](https://fariasmi.github.io/projeto-css/)
+You can see the live demo [here](https://fariasmi.github.io/validacao-cpf/)
